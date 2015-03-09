@@ -1,0 +1,9 @@
+{
+  "name": "lounge-signup",
+  "version": "0.1.0",
+  "private": true,
+  "description": "",
+  "dependencies": {
+    "slackin": "git://github.com/meatballhat/slackin"
+  }
+}
