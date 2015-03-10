@@ -5,5 +5,8 @@
   "description": "",
   "dependencies": {
     "slackin": "git://github.com/meatballhat/slackin#master"
+  },
+  "scripts": {
+    "test": "echo as if"
   }
 }

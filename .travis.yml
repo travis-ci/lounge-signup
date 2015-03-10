@@ -1,0 +1,10 @@
+language: node-js
+env:
+  global:
+  - PORT=5000
+  - SLACK_SUBDOMAIN=bogustest
+  - SLACK_API_TOKEN=bogustest
+script:
+- $(sed 's/^web: //' Procfile) &
+- sleep 5
+- pkill node

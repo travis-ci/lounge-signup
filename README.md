@@ -1,2 +1,3 @@
 # lounge-signup
-Travis Lounge instance of https://github.com/rauchg/slackin
+
+Travis Lounge instance of [slackin](https://github.com/rauchg/slackin).
