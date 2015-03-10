@@ -1,4 +1,5 @@
 language: node-js
+sudo: false
 env:
   global:
   - PORT=5000
