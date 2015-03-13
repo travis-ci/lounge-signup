@@ -7,7 +7,6 @@
     "slackin": "git://github.com/meatballhat/slackin#master"
   },
   "scripts": {
-    "test": "echo as if",
-    "postinstall": "ln -svf $PWD/public/travis.css $PWD/node_modules/slackin/node/assets/"
+    "test": "echo as if"
   }
 }
