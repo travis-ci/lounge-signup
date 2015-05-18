@@ -4,7 +4,7 @@
   "private": true,
   "description": "",
   "dependencies": {
-    "slackin": "git://github.com/meatballhat/slackin#master"
+    "slackin": "~0.5"
   },
   "scripts": {
     "test": "echo as if"
